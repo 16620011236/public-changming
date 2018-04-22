@@ -18,6 +18,10 @@ public class MyAction {
 	public void delete(){
 		
 	}
+	
+	public void my_is_yi(){
+		
+	}
 
 }
 

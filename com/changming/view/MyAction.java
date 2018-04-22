@@ -10,5 +10,13 @@ public class MyAction {
 	public void  first(){
 		System.out.println("this is first");
 	}
+	
+	public void add(String sname){
+		
+	}
+	
+	public void delete(){
+		
+	}
 }
 

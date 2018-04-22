@@ -6,8 +6,7 @@ public class MyAction {
 	public void master(){
 		
 		System.out.println("this is master branch");
-	
+
 	} 
-
-
 }
+

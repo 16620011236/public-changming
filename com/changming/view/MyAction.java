@@ -11,7 +11,9 @@ public class MyAction {
 		System.out.println("this is first");
 	}
 	
-
+	public void hello(){
+		
+	}
 
 }
 

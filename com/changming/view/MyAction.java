@@ -22,6 +22,10 @@ public class MyAction {
 	public void my_is_yi(){
 		
 	}
+	
+	public void this_is_jia(){
+		
+	}
 
 }
 

@@ -14,6 +14,7 @@ public class MyAction {
 	public void hello(){
 		
 	}
+	publi vkjasjhdsa
 
 }
 

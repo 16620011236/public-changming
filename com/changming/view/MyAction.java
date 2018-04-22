@@ -4,7 +4,4 @@ package com.changming.view;
 public class MyAction {
 
 	
-
-
-
 }
